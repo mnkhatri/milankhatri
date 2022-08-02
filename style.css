@@ -1,0 +1,16 @@
+h1,footer p{background-color: green;
+color: white;
+padding: 10px;
+text-align: center;}
+p{padding: 10px;
+text-align: center;}
+div.navbar{text-align: center;}
+div.navbar a{
+padding: 5px 20px;
+background-color: red;
+color: white;}
+h2{text-align: center;}
+div.myCV{background-color: lightskyblue;}
+div.myCV p{text-align: left;}
+div.socialn{background-color: lightcyan;
+text-align: center;}
