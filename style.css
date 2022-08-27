@@ -3,7 +3,7 @@ color: white;
 padding: 10px;
 text-align: center;}
 p{padding: 10px;
-text-align: center;}
+text-align: left;}
 div.navbar{text-align: center;}
 div.navbar a{
 padding: 5px 20px;
@@ -14,3 +14,7 @@ div.myCV{background-color: lightskyblue;}
 div.myCV p{text-align: left;}
 div.socialn{background-color: lightcyan;
 text-align: center;}
+div.downloadstep{text-align: center;
+background-color:grey;}
+div.downloadstep p{text-align: left;
+color: white;}
