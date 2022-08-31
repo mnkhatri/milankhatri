@@ -1,20 +1,13 @@
-h1,footer p{background-color: green;
-color: white;
-padding: 10px;
-text-align: center;}
-p{padding: 10px;
-text-align: left;}
-div.navbar{text-align: center;}
-div.navbar a{
-padding: 5px 20px;
-background-color: red;
-color: white;}
-h2{text-align: center;}
-div.myCV{background-color: lightskyblue;}
+div.navbar{text-align:center;background-color: blue;padding: 5px 20px;}
+div.navbar a{padding: 5px 20px;color: white;}
+h1{text-align:left;background-color:  lightskyblue;}
+div.socialn{background-color: pink;text-align: center;}
+footer p{background-color: lightcoral;color: black;text-align: center;}
+p{padding: 10px;text-align: left;background-color: lightgreen;}
+div.myCV{background-color: lightgreen;}
 div.myCV p{text-align: left;}
-div.socialn{background-color: lightcyan;
-text-align: center;}
-div.downloadstep{text-align: center;
-background-color:grey;}
-div.downloadstep p{text-align: left;
-color: white;}
+div.downloadstep p{text-align: left;color: black;background-color: pink;}
+div.introgg p{background-color: lightgreen;}
+div.chapter{background-color: lightgreen;}
+div.topic{background-color: lightgreen;}
+div.question{background-color: lightcyan;}
