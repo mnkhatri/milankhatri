@@ -9,57 +9,97 @@
 
 <url>
   <loc>https://mkhatri.com.np/</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/index.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/download.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/About%20me.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/Contact%20me.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mkhatri.com.np/how2dnld.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <loc>https://mkhatri.com.np/intromath.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/introgg.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/how2dnld.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/statistics.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://mkhatri.com.np/MFmean.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://mkhatri.com.np/matrix.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/eqngraph.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/amofdd.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/MFmean.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://mkhatri.com.np/mdfrommean.html</loc>
-  <lastmod>2022-08-30T11:52:14+00:00</lastmod>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/operationsonmatrix.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/cramersrule.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/mim.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/qeqngraph.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mkhatri.com.np/qeqnparanst.html</loc>
+  <lastmod>2022-09-10T13:58:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
